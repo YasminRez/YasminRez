@@ -13,14 +13,3 @@ Technologies that I'm currently working on:
 ![CSS](https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=Css3&labelColor=0D1117)&nbsp;<br>
 💻 Some development tools such as Visual Studio Code, Figma and E-Prime 3.0 are commonly used in my daily basis
 
-Also, I'm a photographer! If you're interested in getting to know my works, consider visitting my <a href="https://www.instagram.com/vini_151/"> Instagram page. 📸 </a>
-
-<div align="center">
-<a href="https://github.com/vini-151">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=vini-151&theme=dracula&show_icons=true" />
-</a>&nbsp;
-
-[![Outlook Badge](https://img.shields.io/badge/-yasminrezende99@gmail.com-006bed?style=flat-square&logo=gmail&logoColor=white&link=mailto:yasminrezende99@gmail.com)](yasminrezende99@gmail.com)
-[![GitHub]()](https://github.com/YasminRez)
-[![Insta](https://img.shields.io/badge/-vini_151-ffffff?style=flat&logo=instagram&logoColor=0059)](https://www.instagram.com/yas_minrz/)
-</div>
