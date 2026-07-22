@@ -1,5 +1,5 @@
 
-# Olá, eu sou a Yasmin! 👋
+# Olá, eu sou a Yasmin Rezende!
 
 Estudante do **7º semestre de Engenharia de Software** e atuando na área de **Engenharia de Dados, Automação e Inteligência Artificial**. 
 
