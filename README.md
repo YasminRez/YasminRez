@@ -3,7 +3,7 @@
 
 Estudante do **7º semestre de Engenharia de Software** e atuando na área de **Engenharia de Dados, Automação e Inteligência Artificial**. 
 
-Tenho facilidade em transformar necessidades de negócios em soluções automatizadas, pipelines de dados performáticos e interfaces funcionais. Também tenho experiência em prototipagem e design de interfaces (UI/UX) utilizando o **Figma**.
+Tenho facilidade em transformar necessidades de negócios em soluções automatizadas, pipelines de dados e interfaces funcionais. Também tenho experiência em prototipagem e design de interfaces (UI/UX) utilizando o **Figma**.
 
 ---
 
