@@ -47,5 +47,5 @@ Tenho facilidade em transformar necessidades de negócios em soluções automati
 
 
 📫 **Vamos nos conectar?**
-[LinkedIn](https://linkedin.com/in/SEU_PERFIL) | [E-mail](mailto:seu-email@exemplo.com)
+[LinkedIn](https://www.linkedin.com/in/yasmin-rezende-61b3352b3/) | [E-mail](yasminrezende99@gmail.com)
 
