@@ -38,17 +38,6 @@ Tenho facilidade em transformar necessidades de negócios em soluções automati
 ### **Design & UI/UX**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 🐍 Minhas Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
-</picture>
-
----
 
 📫 **Vamos nos conectar?**
 [LinkedIn](https://linkedin.com/in/SEU_PERFIL) | [E-mail](mailto:seu-email@exemplo.com)
